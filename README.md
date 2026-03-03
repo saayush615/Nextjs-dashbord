@@ -6,3 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Recommended reads
 ### 1. md2: [clsx library](https://www.npmjs.com/package/clsx)
+### 2. md3: [Image optimization docs](https://nextjs.org/docs/app/getting-started/images)
+### 3. md3: [font optimization docs](https://nextjs.org/docs/app/getting-started/fonts)
+### 4. md3: [how-core-web-vitals-affect-seo(vercel blog)](https://vercel.com/blog/how-core-web-vitals-affect-seo)
+### 5. md3: [how-google-handles-javascript-throughout-the-indexing-process(vercel blog)](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
