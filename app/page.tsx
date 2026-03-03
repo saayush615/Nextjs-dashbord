@@ -39,6 +39,13 @@ export default function Page() {
             className='hidden md:block'
             alt='Screenshort for dashbord project desktop version.'
           />
+          <Image 
+            src="/hero-mobile.png"
+            width={560}
+            height={620}
+            className='block md:hidden'
+            alt='Screenshort for dashbord project mobile version'
+          />
         </div>
       </div>
     </main>
