@@ -13,3 +13,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### 6. md4: [colocation file docs](https://nextjs.org/docs/app/getting-started/project-structure#colocation)
 ### 7. md5: [Linking and navigation](https://nextjs.org/docs/app/getting-started/linking-and-navigating)
 ### 8. md9: [Route grouping](https://nextjs.org/docs/app/api-reference/file-conventions/route-groups)
+### 9. md10: [URLSeachParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
