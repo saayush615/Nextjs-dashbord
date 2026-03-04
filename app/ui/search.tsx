@@ -7,7 +7,7 @@ export default function Search({ placeholder }: { placeholder: string }) {
   const searchParams = useSearchParams();
 
   function handleSearch (text: string) {
-    
+    const params = new URLSearchParams(searchParams);
     console.log(text);
   }
   return (
